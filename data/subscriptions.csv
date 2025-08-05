@@ -1,0 +1,6 @@
+subscription_id,plan_name,duration_months,price
+1,Basic,1,30
+2,Standard,3,80
+3,Premium,6,150
+4,Family,12,250
+5,Student,6,90

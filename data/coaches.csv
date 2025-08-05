@@ -1,0 +1,11 @@
+coach_id,name,specialty,rating,availability
+1,Coach_1,Cardio,3.91,Morning
+2,Coach_2,HIIT,3.44,Morning
+3,Coach_3,Strength,3.83,Morning
+4,Coach_4,HIIT,4.77,Full Day
+5,Coach_5,HIIT,3.65,Full Day
+6,Coach_6,Yoga,3.24,Evening
+7,Coach_7,HIIT,3.71,Full Day
+8,Coach_8,Yoga,4.81,Morning
+9,Coach_9,Yoga,3.54,Evening
+10,Coach_10,HIIT,4.3,Morning

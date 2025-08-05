@@ -1,0 +1,16 @@
+message,intent
+I want to book a yoga class,booking
+Cancel my HIIT session please,cancellation
+Can I reschedule my class?,inquiry
+How much is the premium plan?,inquiry
+My coach didn’t show up,complaint
+Book strength training tomorrow,booking
+I need to cancel my membership,cancellation
+What time does the gym open?,inquiry
+Coach was rude,complaint
+Please sign me up for cardio,booking
+Can I change my plan?,inquiry
+Cancel booking for next week,cancellation
+Is the gym open on weekends?,inquiry
+Book session with Coach_3,booking
+Too loud in the gym today,complaint

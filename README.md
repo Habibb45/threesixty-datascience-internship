@@ -1,14 +1,21 @@
-# ThreeSixty Data Science Internship
 
-This repository contains my work during the **Senior Data Scientist Internship** at **ThreeSixty**, through **XpertBot Academy**.
+# Gym Management Data Analysis Project
 
-## 📋 Internship Phases
+This project simulates a full data science workflow for a gym management system — from data exploration to predictive modeling.
 
-- **Phase 1**: Database Understanding & Exploration
-- **Phase 2**: Data Analysis
-- **Phase 3**: Advanced Insights & Modeling
-- **Phase 4**: Visualization & Reporting
-- **Phase 5**: Prediction & Recommendation Features
+## 📁 Project Structure
+- `data/`: Mock CSVs of members, sessions, feedback, etc.
+- `notebooks/`: All phases done in Google Colab.
+- `models/`: ML models for sentiment, intent, and recommendation.
+- `reports/`: Summary reports and ERD.
+- `visuals/`: Exported charts (heatmaps, barplots, etc.)
 
-## 📁 Folder Structure
+## 🔍 Completed Phases
+1. Database Understanding & ERD (Phase 1)
+2. Data Analysis & Trends (Phase 2)
+3. Machine Learning: Sentiment, Intent, Segmentation (Phase 3)
+4. Visual Dashboards (Phase 4)
+5. Predictive Modeling & Recommendation Engine (Phase 5)
 
+## 👑 Created By
+Habib Mostafa Harb — Full Stack & Data Intern
