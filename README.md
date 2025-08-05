@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Habibb45/threesixty-datascience-internship/blob/main/notebooks/Gym_Internship_Project_Notebook.ipynb)
 
 # Gym Management Data Analysis Project
 
